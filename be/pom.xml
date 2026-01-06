@@ -8,9 +8,9 @@
 		<version>3.4.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.peter</groupId>
-	<artifactId>Peter</artifactId>
-	<name>Peter</name>
+	<groupId>com.HTPj</groupId>
+	<artifactId>HTPj</artifactId>
+	<name>HTPj</name>
 	<version>0.0.1</version>
 	<description>Identity service</description>
 	<properties>
